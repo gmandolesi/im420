@@ -1,0 +1,333 @@
+I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
+{ CGEMdiWorkspace 
+	- stubList = { IRPYRawContainer 
+		- size = 0;
+	}
+	- myViewsWithID = { IRPYRawContainer 
+		- size = 11;
+		- value = 
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 78;
+				- m_nTop = 78;
+				- m_nRight = 422;
+				- m_nBottom = 666;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IUCDiagram";
+				- _filename = "AnalysisPkg.sbs";
+				- _subsystem = "AnalysisPkg";
+				- _class = "";
+				- _name = "Functional Overview";
+				- _id = GUID eb53129b-94b7-4f4e-a8d5-fe77de10c35b;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 307 528 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 8;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 104;
+				- m_nTop = 104;
+				- m_nRight = 448;
+				- m_nBottom = 692;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IUCDiagram";
+				- _filename = "AnalysisPkg.sbs";
+				- _subsystem = "AnalysisPkg";
+				- _class = "";
+				- _name = "Place Call Overview";
+				- _id = GUID 20f5b483-cbed-465b-922d-42a853bdfb0c;
+			}
+			- _UpLeft = 0 10 ;
+			- _DownRight = 307 538 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 7;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 52;
+				- m_nTop = 52;
+				- m_nRight = 221;
+				- m_nBottom = 640;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IStructureDiagram";
+				- _filename = "ArchitecturePkg.sbs";
+				- _subsystem = "ArchitecturePkg";
+				- _class = "";
+				- _name = "Block Diagram";
+				- _id = GUID cfad6461-95d4-4f0d-a761-e0824d38a802;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 128 512 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 9;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 26;
+				- m_nTop = 26;
+				- m_nRight = 221;
+				- m_nBottom = 609;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IDiagram";
+				- _filename = "";
+				- _subsystem = "";
+				- _class = "";
+				- _name = "Model1";
+				- _id = GUID e2647990-e8f5-418e-9235-05a9093662b4;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 158 523 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 10;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 130;
+				- m_nTop = 130;
+				- m_nRight = 474;
+				- m_nBottom = 718;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IUCDiagram";
+				- _filename = "RequerimentsPkg.sbs";
+				- _subsystem = "RequerimentsPkg";
+				- _class = "";
+				- _name = "Data Call Requirements";
+				- _id = GUID abffceb7-4536-4af9-9dd7-6431857a754f;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 307 528 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 6;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 2;
+				- m_showCmd = 3;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 0;
+				- m_nTop = 0;
+				- m_nRight = 1031;
+				- m_nBottom = 597;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IStateChartDiagram";
+				- _filename = "CM_SubsystemPkg.sbs";
+				- _subsystem = "SubsystemsPkg::CM_SubsystemPkg";
+				- _class = "TopLevel.ConnectionManagement.CallControl";
+				- _name = "StatechartDiagram";
+				- _id = GUID 1d0b3297-750a-4e0b-afa3-935e00ef653a;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 1436 862 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 0;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 156;
+				- m_nTop = 156;
+				- m_nRight = 357;
+				- m_nBottom = 744;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IStructureDiagram";
+				- _filename = "CM_SubsystemPkg.sbs";
+				- _subsystem = "SubsystemsPkg::CM_SubsystemPkg";
+				- _class = "TopLevel.ConnectionManagement";
+				- _name = "Connection Management Structure";
+				- _id = GUID a27851c1-0b98-4857-9749-45c0394ebd2a;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 222 713 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 5;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 182;
+				- m_nTop = 182;
+				- m_nRight = 1353;
+				- m_nBottom = 779;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IStructureDiagram";
+				- _filename = "DL_SubsystemPkg.sbs";
+				- _subsystem = "SubsystemsPkg::DL_SubsystemPkg";
+				- _class = "TopLevel.DataLink";
+				- _name = "Data Link";
+				- _id = GUID 7b0a17bc-d7c5-44cb-878c-bb0715178efd;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 1134 537 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 4;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 208;
+				- m_nTop = 208;
+				- m_nRight = 1379;
+				- m_nBottom = 805;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IDiagram";
+				- _filename = "DL_SubsystemPkg.sbs";
+				- _subsystem = "SubsystemsPkg::DL_SubsystemPkg";
+				- _class = "";
+				- _name = "RelationsFordl_in_implicitContract";
+				- _id = GUID 95592c6f-db56-489d-80fd-16678870f33a;
+			}
+			- _UpLeft = 0 266 ;
+			- _DownRight = 107 316 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 3;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 234;
+				- m_nTop = 234;
+				- m_nRight = 1405;
+				- m_nBottom = 831;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IStructureDiagram";
+				- _filename = "MM_SubsystemPkg.sbs";
+				- _subsystem = "SubsystemsPkg::MM_SubsystemPkg";
+				- _class = "TopLevel.MobilityManagement";
+				- _name = "MM Architecture";
+				- _id = GUID 67e10d1c-d1d7-4747-a04d-0987bba64b70;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 1134 537 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 2;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 286;
+				- m_nTop = 286;
+				- m_nRight = 1317;
+				- m_nBottom = 883;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IDiagram";
+				- _filename = "SubsystemsPkg.sbs";
+				- _subsystem = "SubsystemsPkg";
+				- _class = "";
+				- _name = "Subsystem Architecture";
+				- _id = GUID 0666c2f4-62b1-402e-8ad8-77b38af44fc5;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 994 537 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 1;
+		}
+	}
+	- _fullName = "D:\\IM420\\HandSet\\HandSet";
+	- m_SearchScopeList = { IRPYRawContainer 
+		- size = 0;
+	}
+
+	- m_favoritesTree = {
+		count=1;
+		{ - favoritesItem
+			generation = 0;
+			name = Favorites;
+			idOrFolder = folder;
+		}
+	}
+
+}
+
